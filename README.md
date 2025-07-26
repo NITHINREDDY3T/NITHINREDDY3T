@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Thummala%20Nithin%20Reddy&fontSize=40&fontColor=ffffff"/>
 </div><p align="center">
-  <strong>AI/ML Engineer | Research Intern @ MulticoreWare | OSS Leader | Hackathon Champion</strong><br>
+  <strong>AI/ML Engineer | Research Intern @ MulticoreWare | Open Source Society Lead</strong><br>
   <em>B.Tech in CSE (AI & ML), Kalasalingam University, India</em>
 </p><p align="center">
   <a href="mailto:thummalanithinreddy4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
