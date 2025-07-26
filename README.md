@@ -1,104 +1,123 @@
-<!-- PROFILE README.md for GitHub.com/NITHINREDDY3T -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Thummala%20Nithin%20Reddy&fontSize=40&fontColor=ffffff"/>
+</div><p align="center">
+  <strong>AI/ML Engineer | Research Intern @ MulticoreWare | OSS Leader | Hackathon Champion</strong><br>
+  <em>B.Tech in CSE (AI & ML), Kalasalingam University, India</em>
+</p><p align="center">
+  <a href="mailto:thummalanithinreddy4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nithin-reddy-thummala-442657268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/NITHINREDDY3T"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codechef.com/users/kl_99220041397"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+---
 
-<h1 align="center">👋 Thummala Nithin Reddy</h1>
+💡 About Me
+
+Name: Thummala Nithin Reddy
+Field: AI/ML Engineering, Systems Programming, Robotics
+Goal: Build AI agents that empower agriculture, autonomy, and open innovation
+
+🤖 Final Year B.Tech in CSE (AI & ML)
+
+🌍 Research Intern @ MulticoreWare Inc. (Jan 2024 – Feb 2025)
+
+🪖 Building SLAM systems with ROS2 + Gazebo
+
+👩‍💼 President, Open Source Society @ KARE
+
+
+
+---
+
+🎓 Education & Certifications
+
+B.Tech, Computer Science and Engineering (AI & ML) @ Kalasalingam University (2022–2026)
+
+Stanford University (Coursera) — Randomized Algorithms
+
+CodeChef — DBMS, Design & Analysis of Algorithms
+
+
+
+---
+
+🔧 Skills & Technologies
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+</p>Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,html,css,mongodb,mysql"/>
+</p>Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp"/>
+</p>AI/ML & Simulation
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-EF6C00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-2C5DAB?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
+---
+
+📈 GitHub Stats & Streak
 
 <p align="center">
-  <strong>AI/ML Engineer • Research Intern @ MulticoreWare • Open Source Society Lead</strong><br/>
-  B.Tech CSE (AI & ML) @ Kalasalingam University | India 🇮🇳
+  <img src="https://github-readme-stats.vercel.app/api?username=NITHINREDDY3T&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHINREDDY3T&theme=react&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHINREDDY3T&layout=compact&theme=react&hide_border=true" />
 </p>
+---
+
+🎯 Highlights
+
+🥇 Top 50 Global Rank – CodeChef Starters 192 & 194
+
+🏆 Winner – IEEE RAS Xtreme Programming, HackXcelerate 2K25
+
+📈 650+ DSA problems solved across CodeChef, LeetCode & Codeforces
+
+👩‍💼 Built Smart Irrigation System Funded by London-based Efficiency for Access
+
+
+
+---
+
+💼 Experience
+
+🔬 Research Intern @ MulticoreWare Inc.
+
+Built 2D→3D pipeline with Gazebo + ROS2
+
+Implemented & optimized SLAM (ORB-SLAM3, D*, A*) for autonomous mapping
+
+Enabled high-fidelity simulation environments for robotics
+
+
+🧑‍💻 OSS President @ Kalasalingam
+
+Led national hackathons & tech events
+
+Built developer tools & academic portals as open-source
+
+
+
+---
+
+🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/nithin-reddy-thummala-442657268" target="_blank">🔗 LinkedIn</a> •
-  <a href="mailto:thummalanithinreddy4@gmail.com">📧 Email</a> •
-  <a href="https://codechef.com/users/kl_99220041397" target="_blank">🧠 CodeChef</a> •
-  <a href="https://itslinked.in" target="_blank">🌐 Portfolio</a>
+  <a href="mailto:thummalanithinreddy4@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nithin-reddy-thummala-442657268"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
 ---
-
-## 🔍 About Me
-
-🎓 I'm a final-year B.Tech student specializing in **AI & Machine Learning**. I blend deep tech with real-world impact—working on SLAM systems, smart agriculture, and AI safety tools.  
-
-🚀 I lead teams, win national hackathons, and build scalable open-source platforms. Whether it's creating real-time autonomous agents or deploying production-grade backend systems, I love turning complex problems into clean, intelligent solutions.
-
----
-
-## 🧠 Areas of Expertise
-
-- 🤖 Artificial Intelligence & Deep Learning  
-- 📍 SLAM & Autonomous Navigation (ROS2, Gazebo)  
-- 🌾 Smart Agriculture (IoT + AI)  
-- 🌐 Full-Stack Web Dev (Node.js, MongoDB, Flask)  
-- 🔐 AI for Safety & Cyber Awareness  
-- 🗃️ Systems Programming, DSA, DBMS  
-
----
-
-## 🔨 Featured Projects
-
-### 🌿 Smart Irrigation & Fertigation System  
-`AI | IoT | Weather Intelligence | London-Funded`  
-Led AI/ML development for a solar-powered smart irrigation system. Integrated weather APIs, pest detection models, and automated fertigation controls.  
-🏅 **Bronze Award Winner** – Efficiency for Access Grand Finale 2025
-
-### 🌐 Open Content Orbit  
-[itslinked.in](https://itslinked.in) • [kannected.onrender.com](https://kannected.onrender.com)  
-`Node.js | MongoDB | GCP | EJS`  
-Built a secure content sharing platform from scratch with real-time data tracking. Scaled to 2K+ users and 7K+ views with community-first design.
-
-### 🧩 AI Tab Manager & Safe Browsing Extension  
-`Python | NLP | Chrome API`  
-Developed a browser extension that summarizes tabs using NLP and flags suspicious sites by analyzing the DOM and URL patterns in real time.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Global Rank 42** – CodeChef Starters 192 (21,000+ participants)  
-- 🥈 **Global Rank 56** – CodeChef Starters 194  
-- 🏆 1st Place – IEEE RAS Xtreme Coding, KARE  
-- 🏆 1st Place – HackXcelerate 2K25, MLSC  
-- 🥉 Top 3 – Hacknite’25 (135 teams)  
-- 📚 650+ DSA problems solved across CodeChef, LeetCode & Codeforces  
-
----
-
-## 🧑‍💼 Experience
-
-### 🔬 Research Intern @ MulticoreWare Inc. (Jan 2024 – Feb 2025)  
-- Developed 2D-to-3D simulation pipelines with **Gazebo + ROS2**  
-- Benchmarked **SLAM algorithms** (ORB-SLAM3, A*, Dijkstra, D*)  
-- Improved real-time path planning and localization for autonomous agents
-
----
-
-## 👥 Community & Leadership
-
-### 👑 President – Open Source Society  
-- Spearheaded national hackathons and university-wide open source drives  
-- Built internal developer tools for event and academic workflow automation  
-- Mentored juniors on Git, open source contributions, and backend stacks  
-
----
-
-## 📚 Certifications
-
-- 📘 Randomized Algorithms – Stanford University (Coursera)  
-- 💾 DBMS – CodeChef  
-- 📊 Design & Analysis of Algorithms – CodeChef  
-
----
-
-## 💬 Let's Connect!
-
-If you're building in **AI, simulation, agriculture, or open source**, I'd love to collaborate or chat ideas.
 
 <p align="center">
-  <a href="mailto:thummalanithinreddy4@gmail.com">📩 Email Me</a> • 
-  <a href="https://linkedin.com/in/nithin-reddy-thummala-442657268" target="_blank">🔗 Connect on LinkedIn</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=footer"/>
 </p>
-
----
-
-<p align="center"><i>“Creating impact with intelligence, empathy, and open innovation.”</i></p>
