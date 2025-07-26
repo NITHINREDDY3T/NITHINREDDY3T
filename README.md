@@ -3,7 +3,7 @@
 <h1 align="center">👋 Thummala Nithin Reddy</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer • Research Intern @ MulticoreWare • Hackathon Winner • OSS Leader</strong><br/>
+  <strong>AI/ML Engineer • Research Intern @ MulticoreWare • Open Source Society Lead</strong><br/>
   B.Tech CSE (AI & ML) @ Kalasalingam University | India 🇮🇳
 </p>
 
